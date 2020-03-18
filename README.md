@@ -1,5 +1,8 @@
-# myrecipes
-verkefni 3 - output
+# verkefni 4 - _output_
+
+#### ath! þú þarft að stilla "gh-pages" sé virkt í "Settings"
+
+Vefuppsetningin er á gh-pages!
 
 Open *demo.html* to see a list of all the glyphs in your font along with their codes/ligatures.
 
